@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Dashboard"
+        android:id="@+id/dashboard_menu"
+        android:icon="@drawable/abc_vector_test"/>
+    <item
+        android:title="Settings"
+        android:id="@+id/Settings_menu"
+        android:icon="@drawable/abc_vector_test"/>
+    <item
+        android:title="Suggest"
+        android:id="@+id/Suggest_menu"
+        android:icon="@drawable/abc_vector_test"/>
+    <item
+        android:title="Logout"
+        android:id="@+id/Logout_menu"
+        android:icon="@drawable/abc_vector_test"/>
+    <item
+        android:title="More"
+        android:id="@+id/More_menu"
+        android:icon="@drawable/abc_vector_test"/>
+
+</menu>
